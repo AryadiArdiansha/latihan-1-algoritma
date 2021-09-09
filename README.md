@@ -1,6 +1,6 @@
 #latihan-1-algoritma
 
-tugas 1
+##tugas 1
 
 alat dan bahan:
 gelas,sendok,kopi,gula,air panas
@@ -12,7 +12,7 @@ gelas,sendok,kopi,gula,air panas
 4.aduk hingga kopi dan gula larut
 
 
-tugas 2
+##tugas 2
 
 1.bangun tidur lalu merapikan tempat tidur
 2.cek hp sebentar 
@@ -25,4 +25,14 @@ tugas 2
 9.main hp(scroll tiktok,ig,wa,dan terkadang main game)
 10.mandi
 11.zoom meeting
-12.tidur zzz...
+12.makan malam
+13.tidur 
+
+
+##tugas 3
+
+1.masukan 3 bilangan yang diurutkan
+2.dari ketiga bilangan tersebut pilih bilangan yang paling terkecil letakan diurutan yang pertama
+3.dari kedua bilangan tersisa tersebut pilih bilangan yabg terkecil,letakan dirutan kedua
+4.diurutan ketiga letakan bilangan yang tersisa
+5.setelah itu akan muncul bilangan yang sesuai dengan urutannya
